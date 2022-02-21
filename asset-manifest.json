@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/React-Simple-Jobs-Portal-WebPage/static/js/main.a9e4df3f.js",
+    "static/media/hero.jpg": "/React-Simple-Jobs-Portal-WebPage/static/media/hero.1a12ad6629a5a19054f3.jpg",
+    "static/media/avatar1.jpg": "/React-Simple-Jobs-Portal-WebPage/static/media/avatar1.f75323b95d3dc638c50f.jpg",
+    "static/media/business.jpg": "/React-Simple-Jobs-Portal-WebPage/static/media/business.1507166503f95eebdc9d.jpg",
+    "static/media/avatar4.jpg": "/React-Simple-Jobs-Portal-WebPage/static/media/avatar4.a174013b84255d08ad5b.jpg",
+    "static/media/avatar2.jpg": "/React-Simple-Jobs-Portal-WebPage/static/media/avatar2.ba6e4bf593ee9a278f50.jpg",
+    "static/media/googleappstore.png": "/React-Simple-Jobs-Portal-WebPage/static/media/googleappstore.c196655d8a8b42127929.png",
+    "static/media/avatar3.jpg": "/React-Simple-Jobs-Portal-WebPage/static/media/avatar3.36c17228e51ec99a95f1.jpg",
+    "static/media/appstore.png": "/React-Simple-Jobs-Portal-WebPage/static/media/appstore.be497785d0cd66fda34a.png",
+    "static/media/logo7.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/logo7.03343e9bae1c9c593b606f04274d5c0a.svg",
+    "static/media/logo3.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/logo3.84559ec32301ad72530a7db9d154e2ba.svg",
+    "static/media/logo6.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/logo6.8c66a55cad0cfa7ebd2c5bbb0ab2d138.svg",
+    "static/media/logo5.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/logo5.e742f04c01b808620c512410b37fcbc0.svg",
+    "static/media/create_account.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/create_account.1ab69f443241f92f1f488939400d0e54.svg",
+    "static/media/apply2.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/apply2.8cfc7acd196c9a4e25835adcae2ae40c.svg",
+    "static/media/logo2.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/logo2.a036d0054325e387d8566d5e41dac17d.svg",
+    "static/media/add.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/add.714c9b64e8ec5519163833ee3cac49a2.svg",
+    "static/media/logo4.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/logo4.939b070516e1b55621cd261d5054875d.svg",
+    "static/media/bookmark.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/bookmark.c18283eb0dcdc54852194d87e4d40142.svg",
+    "static/media/search2.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/search2.917abc3eaaaec8e29ba33945a2efa972.svg",
+    "static/media/search.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/search.5a3c3082ad84d4a34fdacc262ef6fb45.svg",
+    "index.html": "/React-Simple-Jobs-Portal-WebPage/index.html",
+    "static/media/logo1.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/logo1.2aeac3bcbdad8d86b71fd1245aaa8efe.svg",
+    "static/media/star_half.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/star_half.7dd8f8a17889b4c96c9b09a02d06bb38.svg",
+    "static/media/star.svg": "/React-Simple-Jobs-Portal-WebPage/static/media/star.dec0330a416451bb98bfb0d76dfdc502.svg",
+    "main.a9e4df3f.js.map": "/React-Simple-Jobs-Portal-WebPage/static/js/main.a9e4df3f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a9e4df3f.js"
+  ]
+}
